@@ -1,4 +1,4 @@
 package com.example.androidjail
 
-class dwq(val a : Int) {
+class dwq(val a : Int, val b : Int) {
 }
